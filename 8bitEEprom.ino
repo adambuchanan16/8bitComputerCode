@@ -1,3 +1,5 @@
+//code for EEPROM that controls four 7-segment displays
+
 #define SHIFT_DATA 2
 #define SHIFT_CLK 3
 #define SHIFT_LATCH 4
